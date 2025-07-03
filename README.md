@@ -86,3 +86,8 @@ chatbot_using_gemini.py   # Main application file
 
 This project is licensed under the MIT License.
 
+---
+
+https://github.com/user-attachments/assets/a3d9fa02-9eef-4d8f-aacc-35ea8d5e1a03
+
+
