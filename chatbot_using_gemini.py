@@ -3,7 +3,7 @@ import requests
 
 
 GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent'
-GEMINI_API_KEY = 'AIzaSyB6icuyVZW5C-ACTtwisOh_OFRLo8UUfRs'
+GEMINI_API_KEY = 'YOUR_GEMINI_API'
 
 def get_gemini_response(user_message):
     headers = {
